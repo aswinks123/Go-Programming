@@ -29,7 +29,7 @@ func main() {
 	num2 := 2
 	// Variables to store the values of sum and diff that was returned by the calc function
 	sum, difference := calc(num1, num2)
-	// Print the outputs
+	// Print the outputs line after another.
 	fmt.Println("Sum of Numbers:", sum)
 	fmt.Println("Difference of Numbers:", difference)
 
