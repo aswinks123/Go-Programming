@@ -2,7 +2,7 @@
 =============================================================================
 DEVELOPER: Aswin KS
 PURPOSE: To demonstrate different date types in go
-About: This program creates variables of different data types
+ABOUT: This program creates variables of different data types
 DATE: 29-01-2025
 =============================================================================
 */

@@ -2,7 +2,7 @@
 =============================================================================
 DEVELOPER: Aswin KS
 PURPOSE: First Go Program
-About: First Program to understand go
+ABOUT: First Program to understand go
 DATE: 20-01-2025
 =============================================================================
 */

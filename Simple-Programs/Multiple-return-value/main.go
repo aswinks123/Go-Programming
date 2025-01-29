@@ -2,7 +2,7 @@
 =============================================================================
 DEVELOPER: Aswin KS
 PURPOSE: To demonstrate function that return multple value
-About: This program creates a function that returns multiple values
+ABOUT: This program creates a function that returns multiple values
 DATE: 21-01-2025
 =============================================================================
 */
