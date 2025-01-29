@@ -2,7 +2,7 @@
 =============================================================================
 DEVELOPER: Aswin KS
 PURPOSE: To demonstrate Switch Statement
-About: This program checkes when is saturday comparing to today's date
+ABOUT: This program checkes when is saturday comparing to today's date
 DATE: 21-01-2025
 =============================================================================
 */

@@ -2,7 +2,7 @@
 =============================================================================
 DEVELOPER: Aswin KS
 PURPOSE: To demonstrate different ways to declare Constants in go
-About: This program declare and use Constant values
+ABOUT: This program declare and use Constant values
 DATE: 29-01-2025
 =============================================================================
 */

@@ -2,7 +2,7 @@
 =============================================================================
 DEVELOPER: Aswin KS
 PURPOSE: To demonstrate different ways to declare variables in go
-About: This program declare and assign varibale values
+ABOUT: This program declare and assign varibale values
 DATE: 29-01-2025
 =============================================================================
 */
