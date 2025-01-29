@@ -22,7 +22,5 @@ func main() {
 
 	// Constants cannot be assigned another value once it is defines
 	fmt.Println("Name is:", name)
-	name = "Eldho" // This reassignment failed
-	fmt.Println("Area is:", name)
 
 }
