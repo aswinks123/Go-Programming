@@ -1,5 +1,6 @@
 # Problem: Write a function in Go to check whether a given number is prime or not.
 Input: n = 7
+
 Output: true
 Explanation:7 is only divisible by 1 and 7
 Input: n = 10
