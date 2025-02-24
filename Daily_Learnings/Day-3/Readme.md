@@ -1,6 +1,7 @@
 # Problem: Write a function in Go to check whether a given number is prime or not.
-Input: n = 7
 
+```markdown
+Input: n = 7
 Output: true
 Explanation:7 is only divisible by 1 and 7
 Input: n = 10
@@ -8,6 +9,8 @@ Output: false
 Explanation: 10 is not a prime number because it is divisible by 1, 2, 5, 10.
 Input: nums = [3, 1, 35, 7, 9, 5]
 Output: 35
+
+```
 
 # Key concepts Learned:
 A number is prime if:
