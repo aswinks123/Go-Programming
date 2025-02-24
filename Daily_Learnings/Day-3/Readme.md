@@ -13,19 +13,21 @@ Output: 35
 ```
 
 # Key concepts Learned:
+```markdown
 A number is prime if:
 It is greater than 1.
 It is only divisible by 1 and itself (no other divisors).
 When you check the remainder (%) for every number from 2 to num-1, none should be 0.
-
+```
 # Example with 5:
+```markdown
 Check all numbers from 2 to 4:
 5 % 2 = 1 ✅
 5 % 3 = 2 ✅
 5 % 4 = 1 ✅
 Since none of the remainders are 0, 5 is only divisible by 1 and 5.
 Therefore, 5 is prime.
-
+```
 ```go
 if num == 1 { // if number is 1 the return false. 1 is not a prime number by default
 		return false
